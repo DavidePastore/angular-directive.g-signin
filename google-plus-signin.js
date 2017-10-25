@@ -35,7 +35,7 @@ angular.module('directive.g+signin', []).
                   longtitle: false,
                   theme: 'dark',
                   autorender: true,
-                  access_type : online,
+                  access_type : 'online',
                   customtargetid: 'googlebutton'
               };
 
